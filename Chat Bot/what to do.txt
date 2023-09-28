@@ -1,0 +1,26 @@
+we have in the code
+
+functions to fill string, create string, give random reply to a certain record
+
+
+our main_focus function is Reply_To_AI(char* name) which takes as an input the name of the user entered by him in the main function
+
+we want to make a loop inside the main_focus function that will infinitely loop until the user will enter some string containing exit
+
+inside the loop we have the first thing to check if the user entered hi then we Reply_To_HI() to the entered value
+
+then we check if the random reply contains assest or not
+
+if the reply contains an assest then start a conservation asking the user to enter a command 
+
+
+
+ ////  see the Project_AI commands to know the commands ////
+
+
+
+we can make a function that contains all the commands and put it after the hi reply to check all the commands
+
+the function will take as input 
+
+ 

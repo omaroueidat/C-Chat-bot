@@ -1,0 +1,83 @@
+   ****************************************	
+	AI_Project in C language commands
+   ****************************************
+
+This contains all the commands that AI_Project 
+can do:
+
+_____________________________________________
+
+--> if the user entered any string containing 
+- date
+- time
+- hour
+- week
+- month
+- year
+- today
+
+ <--> then the AI_Proect will reply by the date 
+and time.
+_____________________________________________
+
+_____________________________________________
+--> if the user entered any string containing
+- calculator
+- sum
+- product
+- division
+- calc
+- remain
+- minus
+- plus
+- times
+- divide
+- any sign of the mathemtics operation
+
+ <--> then open the calculator
+______________________________________________
+
+______________________________________________
+---> if the user enetred any string containing
+- how are you
+- how do you feel
+- you feel
+- are you fine
+- are you good
+- are you happy
+- are you sad
+- you nice
+...
+
+ <--> the AI will respond by saying that it doesnt have feelings cause its an AI
+______________________________________________
+
+______________________________________________
+---> if the user entered any string containing
+- love you
+- like you
+
+ <--> the AI will respond by random replies
+______________________________________________
+
+______________________________________________
+---> if the user entered any string containing
+- joke
+- make me happy
+...
+ 
+ <-> the AI will respond by a random joke
+______________________________________________
+
+______________________________________________
+---> if the user entered any string containing
+- open
+- run
+
+ <-> the AI will take from the user the full
+path of the application that the user wants
+to open then the AI uses the start command to
+open the given application
+______________________________________________
+
+______________________________________________
